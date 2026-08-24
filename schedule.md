@@ -43,7 +43,7 @@ fragility, and regulation.
 | 11:15–11:45 | *Break* | — | — | — |
 | 11:45–12:30 | **The Consumer Welfare Effects of US Bank Mergers** | Michael Whinston (MIT) ⭐⭐⭐ | Ariel Pakes (Harvard) ⭐⭐⭐, Fanyin Zheng (Imperial College London) | ✅ found (TSE seminar draft) |
 | 12:30–1:30 | *Lunch* | — | — | — |
-| 1:30–2:15 | **The Declining Role of Deposits in Credit Creation** | Naz Koont (Stanford) ⭐ | Stefan Walz (Boston College) | ⚠️ SSRN-only, blocked to bots (paywalled draft, id 7134579) |
+| 1:30–2:15 | **The Declining Role of Deposits in Credit Creation** | Naz Koont (Stanford) ⭐ | Stefan Walz (Boston College) | ✅ downloaded (SSRN 7134579) |
 | 2:15–2:45 | *Break* | — | — | — |
 | 2:45–3:30 | **Interest Rate Risk and Cross-Sectional Effects of Micro-Prudential Regulation** | Juliane Begenau (Stanford) ⭐ | Vadim Elenev (U. Utah), Tim Landvoigt (UPenn) | ✅ found (ECB conference / NBER w34892) |
 | 3:30–4:00 | *Break* | — | — | — |
@@ -207,6 +207,26 @@ traits. Despite the extra pass-through, MPS holders still withdraw more (2.4pp m
 100bps), and banks with more MPS-heavy depositor bases cut lending more when rates rise
 (Khwaja-Mian firm-level design). Euro-area cross-country evidence corroborates the mechanism.
 
+### 11. The Declining Role of Deposits in Credit Creation (Koont & Walz)
+Decomposes the total effect of a deposit inflow on bank credit into (i) banks' direct marginal
+lending response and (ii) an indirect "credit-deposit multiplier" feedback loop, in which loan
+proceeds circulate and partly recycle back into stable deposits that fund further lending. Using
+high-frequency Treasury-cash-settlement timing as an instrument for deposit inflows (weekly
+data, 2005-2019) plus a structural model matched to the reduced-form multiplier, finds the
+total bank-credit effect of $1 of deposits has fallen from $2.13 to $0.88 over two decades —
+driven by both a weaker direct credit response (0.88→0.58, reflecting higher balance-sheet/
+capital costs) and a lower recycling rate (0.65→0.47, reflecting declining deposit "specialness"
+as savers substitute into money-market funds and other non-bank alternatives). Central bank
+policy matters too: QE lowers the marginal credit impact of a deposit (balance-sheet expansion
+tightens the capital constraint), while QT can raise it (scarcer liquidity raises the marginal
+value of stable funding). Non-bank credit does NOT offset the decline — a deposit inflow that
+reaches non-banks only via lower bank loan rates actually *contracts* non-bank credit rather
+than expanding it, and non-bank intermediation chains are too long for leaked flows to make up
+the gap. Bottom line: an "implicit narrowing" of banking — deposits remain integrated with
+lending but have become much less effective at amplifying credit creation, with implications
+for monetary/fiscal transmission and for how much a shift toward stablecoins or other non-bank
+money substitutes would actually matter for aggregate credit supply.
+
 ### 12. Interest Rate Risk and Cross-Sectional Effects of Micro-Prudential Regulation (Begenau, Elenev, Landvoigt)
 Builds a two-period GE model of heterogeneous banks that jointly choose interest-rate risk
 (securities portfolios) and funding mix (insured vs. differentiated uninsured deposits) with
@@ -227,17 +247,27 @@ informs the post-2023 debate on regulating large regional/systemic banks' rate r
 
 ## Coverage summary
 
-Of the 13 papers in the session, **10 are now downloaded** in `papers/` (4 had direct links on
-the conference page; 6 more were located via author websites / NBER / NY Fed / ECB / conference
-drafts). **3 remain unavailable**:
+Of the 13 papers in the session, **11 are now downloaded** in `papers/` (4 had direct links on
+the conference page; 7 more were located via author websites / NBER / NY Fed / ECB / conference
+drafts / SSRN). **2 remain unavailable**:
 
 - **Deposit Competition Beyond Rates** (Hébert, McQuade, Benetton) — listed as "work in
   progress" on McQuade's site; no public draft exists yet.
-- **The Declining Role of Deposits in Credit Creation** (Koont & Walz) — exists only as an
-  SSRN abstract page (id 7134579), which blocks automated/bot downloads; no mirrored PDF found
-  elsewhere.
-- **Interest Rate Risk Hedging** (Krishnamurthy, DeMarzo, He, Milbradt) — listed as "coming
-  soon" on Milbradt's site; unpublished draft.
+- **Interest Rate Risk Hedging** (Krishnamurthy, DeMarzo, He, Milbradt) — checked Milbradt's,
+  DeMarzo's, He's, and Krishnamurthy's own sites plus SSRN/NBER (2026-08-24): the paper (listed
+  on Milbradt's site as "Interest Rate Risk and Bank Hedging," with He and Krishnamurthy but not
+  DeMarzo credited there) is marked "Coming soon" — only a bibtex citation is posted, no PDF or
+  slides. The site does give the abstract: banks hedge cash-flow risk and discount-rate risk
+  simultaneously by trading off the two against a regulatory leverage constraint, and hedge away
+  all interest-rate risk only when their deposit-rate beta, loan-rate beta, and deposit-growth
+  beta are all zero — otherwise they retain some exposure to stabilize leverage vs. exploit the
+  shifting investment-opportunity set. No draft/preprint exists anywhere yet.
 
-All three are the newest/least-far-along papers by presenters who are also session organizers
-or very senior — plausible that final drafts are still being finished ahead of the conference.
+**Koont & Walz update:** the SSRN page for "The Declining Role of Deposits in Credit Creation"
+(id 7134579) blocks automated fetches, but the actual PDF was obtained directly and added to
+`papers/` (`11_Declining_Role_of_Deposits_in_Credit_Creation.pdf`) — see summary #11 above and
+`papers/summary_11.md` for a deep dive.
+
+Both remaining gaps are the newest/least-far-along papers by presenters who are also session
+organizers or very senior — plausible that final drafts are still being finished ahead of the
+conference.
