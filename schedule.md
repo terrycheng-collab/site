@@ -16,24 +16,41 @@ fragility, and regulation.
 
 | Time (PDT) | Paper | Presenter | Coauthors | Paper link |
 |---|---|---|---|---|
+| 8:15–8:45 | *Check-in & Breakfast* | — | — | — |
 | 8:45–9:30 | **The Dynamics of Retail Deposit Balances** | Christopher Palmer (MIT) ⭐ | Bronson Argyle, Benjamin Iverson, Jason D. Kotter, Taylor D. Nadauld (all BYU) | ✅ downloaded |
+| 9:30–10:00 | *Break* | — | — | — |
 | 10:00–10:45 | **Banking on Inattention** | Xu Lu (U. Washington) | Lingxuan Wu (NYU) | ✅ downloaded |
+| 10:45–11:15 | *Break* | — | — | — |
 | 11:15–12:00 | **Bye Bye Beta: Deposit Duration with Fixed Spreads** | Robert Rogers (U. Chicago) | — | ✅ found (author site) |
+| 12:00–1:15 | *Lunch* | — | — | — |
 | 1:15–2:00 | **What Makes Depositors Tick? Bank Data Insights into Households' Liquid Asset Allocation** | Fernando Cirelli (Columbia) | Arna Olafsson (CEPR) | ✅ downloaded |
+| 2:00–2:30 | *Break* | — | — | — |
 | 2:30–3:15 | **How Do Banks Compete? Evidence from Advertising Videos** | Song Ma (Yale) ⭐ | Xugan Chen (Yale), Allen Hu (UBC) | ✅ found (NBER w34220) |
+| 3:15–3:45 | *Break* | — | — | — |
 | 3:45–4:30 | **Deposit Competition Beyond Rates** | Benjamin Hébert (Stanford) ⭐ | Tim McQuade (UC Berkeley) ⭐, Matteo Benetton (UC Berkeley) | ⚠️ not found (listed as "work in progress", no public draft) |
+| 4:30–5:00 | *Break* | — | — | — |
 | 5:00–5:45 | **Deposit Specialization and Lending Behavior** | Cecilia Parlatore (NYU) ⭐ | Kristian S. Blickle (NY Fed), Anthony Saunders (NYU) ⭐⭐ | ✅ found (NY Fed Staff Report 1175) |
+| 6:30–8:00 | *Dinner* | — | — | — |
 
 ## Tuesday, August 25
 
 | Time (PDT) | Paper | Presenter | Coauthors | Paper link |
 |---|---|---|---|---|
+| 8:45–9:15 | *Check-in & Breakfast* | — | — | — |
 | 9:15–10:00 | **Bank Market Power** | Luigi Bocola (Stanford) ⭐ | Gideon Bornstein (UPenn), Cedomir Malgieri (Arizona State), Federico Puglisi (Bank of Italy) | ✅ found (Bornstein's site) |
+| 10:00–10:30 | *Break* | — | — | — |
 | 10:30–11:15 | **Market-Priced Savings, Bank Deposit Market Power, and Monetary Policy Transmission** | Dominic Cucic (Danmarks Nationalbank) | Christoph Basten (U. Zurich), Glenn Schepens (ECB) | ✅ downloaded |
+| 11:15–11:45 | *Break* | — | — | — |
 | 11:45–12:30 | **The Consumer Welfare Effects of US Bank Mergers** | Michael Whinston (MIT) ⭐⭐⭐ | Ariel Pakes (Harvard) ⭐⭐⭐, Fanyin Zheng (Imperial College London) | ✅ found (TSE seminar draft) |
+| 12:30–1:30 | *Lunch* | — | — | — |
 | 1:30–2:15 | **The Declining Role of Deposits in Credit Creation** | Naz Koont (Stanford) ⭐ | Stefan Walz (Boston College) | ⚠️ SSRN-only, blocked to bots (paywalled draft, id 7134579) |
+| 2:15–2:45 | *Break* | — | — | — |
 | 2:45–3:30 | **Interest Rate Risk and Cross-Sectional Effects of Micro-Prudential Regulation** | Juliane Begenau (Stanford) ⭐ | Vadim Elenev (U. Utah), Tim Landvoigt (UPenn) | ✅ found (ECB conference / NBER w34892) |
+| 3:30–4:00 | *Break* | — | — | — |
 | 4:00–4:45 | **Interest Rate Risk Hedging** | Arvind Krishnamurthy (Stanford) ⭐⭐ | Peter DeMarzo (Stanford) ⭐⭐, Zhiguo He (Stanford) ⭐⭐, Konstantin Milbradt (UCLA) ⭐ | ⚠️ not found (Milbradt's site lists it "coming soon", unpublished) |
+
+*Non-presentation events (check-in/breakfast, breaks, lunch, Monday dinner) per the official
+conference page — not otherwise timed on the source site beyond what's listed above.*
 
 ---
 
