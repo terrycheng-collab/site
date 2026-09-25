@@ -251,16 +251,23 @@ Of the 13 papers in the session, **11 are now downloaded** in `papers/` (4 had d
 the conference page; 7 more were located via author websites / NBER / NY Fed / ECB / conference
 drafts / SSRN). **2 remain unavailable**:
 
-- **Deposit Competition Beyond Rates** (Hébert, McQuade, Benetton) — listed as "work in
-  progress" on McQuade's site; no public draft exists yet.
-- **Interest Rate Risk Hedging** (Krishnamurthy, DeMarzo, He, Milbradt) — checked Milbradt's,
-  DeMarzo's, He's, and Krishnamurthy's own sites plus SSRN/NBER (2026-08-24): the paper (listed
-  on Milbradt's site as "Interest Rate Risk and Bank Hedging," with He and Krishnamurthy but not
-  DeMarzo credited there) is marked "Coming soon" — only a bibtex citation is posted, no PDF or
-  slides. The site does give the abstract: banks hedge cash-flow risk and discount-rate risk
-  simultaneously by trading off the two against a regulatory leverage constraint, and hedge away
-  all interest-rate risk only when their deposit-rate beta, loan-rate beta, and deposit-growth
-  beta are all zero — otherwise they retain some exposure to stabilize leverage vs. exploit the
+- **Deposit Competition Beyond Rates** (Hébert, McQuade, Benetton) — re-checked 2026-09-25
+  (McQuade's, Benetton's, Hébert's own sites, SSRN, NBER): still no public PDF/SSRN/NBER
+  listing anywhere. Still listed as "Works in Progress" on McQuade's site. New context this
+  pass: it's been presented widely on the 2026 circuit (WFA, Berkeley macro lunch, FMG, Tinbergen
+  Institute) and **won the Arthur Warga Award for Best Paper in Fixed Income at SFS Cavalcade
+  North America 2026**, and was presented at the 2026 RCFS Winter Conference — so it's a live,
+  well-regarded paper, just still mimeo with no downloadable draft.
+- **Interest Rate Risk Hedging** (Krishnamurthy, DeMarzo, He, Milbradt) — re-checked 2026-09-25
+  (Milbradt's, DeMarzo's, He's, Krishnamurthy's own sites, SSRN, NBER, plus the Kellogg research
+  listing that now indexes it): unchanged from the 2026-08-24 check — still marked "Coming soon"
+  on Milbradt's site (listed there as "Interest Rate Risk and Bank Hedging," with He and
+  Krishnamurthy but not DeMarzo credited), only a bibtex citation, no PDF or slides. The Kellogg
+  listing page confirms the same three authors and abstract but is JS-rendered with no draft link
+  either. Abstract (unchanged): banks hedge cash-flow risk and discount-rate risk simultaneously
+  by trading off the two against a regulatory leverage constraint, and hedge away all
+  interest-rate risk only when their deposit-rate beta, loan-rate beta, and deposit-growth beta
+  are all zero — otherwise they retain some exposure to stabilize leverage vs. exploit the
   shifting investment-opportunity set. No draft/preprint exists anywhere yet.
 
 **Koont & Walz update:** the SSRN page for "The Declining Role of Deposits in Credit Creation"
