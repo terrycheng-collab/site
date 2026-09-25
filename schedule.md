@@ -257,7 +257,11 @@ drafts / SSRN). **2 remain unavailable**:
   pass: it's been presented widely on the 2026 circuit (WFA, Berkeley macro lunch, FMG, Tinbergen
   Institute) and **won the Arthur Warga Award for Best Paper in Fixed Income at SFS Cavalcade
   North America 2026**, and was presented at the 2026 RCFS Winter Conference — so it's a live,
-  well-regarded paper, just still mimeo with no downloadable draft.
+  well-regarded paper, just still mimeo with no downloadable draft. Also checked every host site
+  directly in case a conference posted the paper itself (SFS Cavalcade program page, the RCFS
+  Winter Conference program PDF, the WFA conference portal, the Berkeley events calendar entry,
+  the FMG seminar page, the Tinbergen Institute event page) — all confirm the presentation/award
+  but none hosts a PDF or outbound link to one.
 - **Interest Rate Risk Hedging** (Krishnamurthy, DeMarzo, He, Milbradt) — re-checked 2026-09-25
   (Milbradt's, DeMarzo's, He's, Krishnamurthy's own sites, SSRN, NBER, plus the Kellogg research
   listing that now indexes it): unchanged from the 2026-08-24 check — still marked "Coming soon"
