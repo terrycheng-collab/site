@@ -276,8 +276,8 @@ drafts / SSRN). **2 remain unavailable**:
 
 **Koont & Walz update:** the SSRN page for "The Declining Role of Deposits in Credit Creation"
 (id 7134579) blocks automated fetches, but the actual PDF was obtained directly and added to
-`papers/` (`11_Declining_Role_of_Deposits_in_Credit_Creation.pdf`) — see summary #11 above and
-`papers/summary_11.md` for a deep dive.
+`papers/` (`s12-11_Declining_Role_of_Deposits_in_Credit_Creation.pdf`) — see summary #11 above and
+`papers/s12_summary_11.md` for a deep dive.
 
 Both remaining gaps are the newest/least-far-along papers by presenters who are also session
 organizers or very senior — plausible that final drafts are still being finished ahead of the
